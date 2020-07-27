@@ -1,0 +1,2 @@
+Prefix plugins/Atlas/example
+Plugin Atlas inputfile parameters.txt outputfile atlas

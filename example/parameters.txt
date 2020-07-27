@@ -1,0 +1,5 @@
+otufile	plugins/Atlas/example/asv_abund.norm.transpose.csv
+mapping	plugins/Atlas/example/asv_map.csv
+tree	plugins/Atlas/example/asv_tax.csv
+sorting	Description
+target	ASV_22
